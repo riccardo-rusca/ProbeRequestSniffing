@@ -1,1 +1,4 @@
-# ProbeRequest_Sniffing
+# What WiFi Probe Requests can tell you
+
+### Abstract
+Everyday, as we go about our business in a city, we carry around several devices such as smartphones, tablets or even laptops, most of them with an active WiFi interface. This interface "leaks" wireless traces, or footprints, that can be used to identify the presence of people in certain areas. In particular, the analysis of devices' footprints allows the detection, tracking and monitoring of people in indoors and outdoors scenarios. In this paper, we focus on the probe request messages broadcasted by smart devices and we analyze the behaviour and the characteristics of these messages in different devices, coming from various vendors, with different operating systems and characteristics, also considering the user interaction with them. In particular, we provide a detailed picture of the adoption of MAC address randomization techniques, and on the variety of fields present within the probe request messages.
