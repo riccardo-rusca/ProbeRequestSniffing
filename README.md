@@ -1,5 +1,12 @@
 # What WiFi Probe Requests can tell you
 
+
+If you use the content of this repository, please reference the following paper: 
+
+> R. Rusca, F. Sansoldo, C. Casetti, P. Giaccone, "What WiFi Probe Requests can tell you", IEEE CCNC, January 2023. 
+
+Link soon available, if you need it contact me at <riccardo.rusca@polito.it>
+
 ### Overview
 | Specification |            |  
 |----------|-------------|
@@ -23,3 +30,8 @@
 | Tablet |  Apple  | iPad 8 | iPadOS  14.8.1  | 2020 |
 | Laptop | Lenovo | ThinkPad X13 Gen1 | Windows   11 | 2021 |
 | Laptop | Apple  | MacBookAir M1 | macOS   12.1 | 2020 |
+
+
+### Publication
+
+* R. Rusca, F. Sansoldo, C. Casetti, P. Giaccone, "What WiFi Probe Requests can tell you", in IEEE CCNC, Las Vegas January 2023. 
