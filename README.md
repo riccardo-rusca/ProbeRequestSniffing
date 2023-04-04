@@ -3,9 +3,8 @@
 
 If you use the content of this repository, please reference the following paper: 
 
-> R. Rusca, F. Sansoldo, C. Casetti, P. Giaccone, "What WiFi Probe Requests can tell you", IEEE CCNC, January 2023. 
+> R. Rusca, F. Sansoldo, C. Casetti and P. Giaccone, "What WiFi Probe Requests can tell you," 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2023, pp. 1086-1091, doi: 10.1109/CCNC51644.2023.10060447. [URL](https://ieeexplore.ieee.org/document/10060447) [BibTeX](/cite.bib)
 
-Link soon available, if you need it contact me at <riccardo.rusca@polito.it>
 
 ### Overview
 | Specification |            |  
@@ -31,7 +30,7 @@ Link soon available, if you need it contact me at <riccardo.rusca@polito.it>
 | Laptop | Lenovo | ThinkPad X13 Gen1 | Windows   11 | 2021 |
 | Laptop | Apple  | MacBookAir M1 | macOS   12.1 | 2020 |
 
-
-### Publication
-
-* R. Rusca, F. Sansoldo, C. Casetti, P. Giaccone, "What WiFi Probe Requests can tell you", in IEEE CCNC, Las Vegas January 2023. 
+### Contacts
+* Riccardo Rusca [riccardo.rusca@polito.it]
+* Claudio Casetti [claudio.casetti@polito.it]
+* Paolo Giaccone [paolo.giaccone@polito.it]
