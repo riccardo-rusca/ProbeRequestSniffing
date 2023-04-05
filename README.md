@@ -17,7 +17,7 @@ If you use the content of this repository, please reference the following paper:
 | Data source location  | Institution: Politecnico di Torino <br> City/Town/Region: Torino, TO <br> Country: Italy  |   
 
 
-### List of devices
+### List of devices tested in 2022
 | Type   |  Vendor | Model | OS | Year | 
 |----------|-------------|-------------|:-------------:|:-------------:|
 | SmartPhone |  OnePlus | Nord 5G | Android 11.0 | 2021 |
