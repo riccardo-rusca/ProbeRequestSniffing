@@ -30,6 +30,16 @@ If you use the content of this repository, please reference the following paper:
 | Laptop | Lenovo | ThinkPad X13 Gen1 | Windows   11 | 2021 |
 | Laptop | Apple  | MacBookAir M1 | macOS   12.1 | 2020 |
 
+### List of devices tested in 2023
+| Type   |  Vendor | Model | OS | Year | 
+|----------|-------------|-------------|:-------------:|:-------------:|
+| SmartPhone |  Apple | iPhone 7 | iOS 15.2 | 2016 |
+| SmartPhone |  Apple | iPhone 11 | iOS 16.3.1 | 2019 |
+| SmartPhone |  Apple | iPhone 13 Pro | iOS 16.3 | 2021 |
+| SmartPhone |  Apple | iPhone 14 Pro | iOS 16.4  | 2022 |
+| SmartPhone |  Xiaomi | Mi9 Lite | Android 10.0  | 2020 |
+| Laptop | Apple  | MacBookPro | macOS 11.6.2 | 2015 |
+
 ### Contacts
 * Riccardo Rusca [riccardo.rusca@polito.it]
 * Claudio Casetti [claudio.casetti@polito.it]
