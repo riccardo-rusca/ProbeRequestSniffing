@@ -5,6 +5,7 @@ If you use the content of this repository, please reference the following paper:
 
 > R. Rusca, F. Sansoldo, C. Casetti and P. Giaccone, "What WiFi Probe Requests can tell you," 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2023, pp. 1086-1091, doi: 10.1109/CCNC51644.2023.10060447. [URL](https://ieeexplore.ieee.org/document/10060447) [BibTeX](/cite.bib)
 
+Note that all the results in the paper are obtained with the test performed during March 2022. The results of the newer test performed during March 2023 is an extension of the work. 
 
 ### Overview
 | Specification |            |  
